@@ -1,0 +1,40 @@
+.main {
+  padding: 300px 0 160px 0;
+  display: flex;
+  justify-content: center;
+}
+
+.main_content {
+  width: 1540px;
+  height: 100px;
+  background-color: red;
+}
+
+.main_title {
+  font-family: Orchidea Pro;
+  font-size: 48px;
+  font-weight: 500;
+  line-height: 62px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.main_block_title {
+  font-family: Orchidea Pro;
+  font-size: 48px;
+  font-weight: 500;
+  line-height: 53px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: black;
+}
+
+.main_block_text {
+  font-family: Manrope;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: black;
+}

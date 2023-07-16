@@ -1,0 +1,23 @@
+header {
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    background: linear-gradient(#464341,#010101);
+}
+
+.header_content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1540px;
+}
+
+.header_text {
+    font-family: "Manrope";
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: center;  
+    color: #FFFFFF;
+}
