@@ -1,12 +1,12 @@
 .main {
-  padding: 300px 0 160px 0;
+  /* padding: 300px 0 160px 0; */
   display: flex;
   justify-content: center;
 }
 
 .main_content {
   width: 1540px;
-  height: 100px;
+  /* height: 100px; */
   background-color: red;
 }
 
@@ -37,4 +37,16 @@
   letter-spacing: 0em;
   text-align: left;
   color: black;
+}
+
+.main_block_one {
+  display: flex;
+}
+
+.main_image-container {
+  position: relative;
+  width: 100vw;
+  height: 480px;
+  display: flex;
+  justify-content: flex-start;
 }

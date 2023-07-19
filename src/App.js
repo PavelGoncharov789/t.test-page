@@ -5,11 +5,13 @@ import { Footer } from './components/footer/Footer';
 import { Main } from './pages/main/Main';
 
 function App() {
-  return (<>
-   <Header/>
+  return (<div class="app">
+  <div class="top">
+    <Header />
    <Main />
-   <Footer/>
-  </>
+  </div>
+  <Footer />
+</div>
   );
 }
 
